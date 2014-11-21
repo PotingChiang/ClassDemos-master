@@ -17,6 +17,7 @@ namespace eRestaurantSystem.DAL.Security
         public ApplicationDbContext()
             : base("DefaultConnection")
         {
+            
         }
     }
 }
